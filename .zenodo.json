@@ -1,0 +1,33 @@
+{
+ "title": "SNAP EBT monthly deposit-day rules by U.S. state",
+ "description": "The day of the month SNAP benefits are loaded to EBT cards in 24 U.S. states, by case number, ID digits, name or birth month, each row cited to the state agency's page.<br><br>Site built on this data: https://ebt.govsimple.org/<br>Source repository, with columns, sources and how it was checked: https://github.com/JasonTKG/ebt-schedule<br>",
+ "upload_type": "dataset",
+ "creators": [
+  {
+   "name": "JasonTKG"
+  }
+ ],
+ "license": "cc-zero",
+ "keywords": [
+  "dataset",
+  "open-data",
+  "snap",
+  "ebt",
+  "benefits",
+  "united-states",
+  "csv"
+ ],
+ "access_right": "open",
+ "related_identifiers": [
+  {
+   "identifier": "https://ebt.govsimple.org/",
+   "relation": "isSupplementTo",
+   "scheme": "url"
+  },
+  {
+   "identifier": "https://github.com/JasonTKG/ebt-schedule",
+   "relation": "isDerivedFrom",
+   "scheme": "url"
+  }
+ ]
+}
