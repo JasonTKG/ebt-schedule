@@ -2,6 +2,8 @@
 
 **Site: [ebt.govsimple.org](https://ebt.govsimple.org/)** · Download: [latest release](https://github.com/JasonTKG/ebt-schedule/releases/latest)
 
+Archived on Zenodo: [doi:10.5281/zenodo.24496786](https://doi.org/10.5281/zenodo.24496786) · also on [Kaggle](https://www.kaggle.com/datasets/jasontkg/snap-ebt-deposit-day-rules-by-us-state) and [Hugging Face](https://huggingface.co/datasets/lakerguy16/ebt-schedule)
+
 The day of the month on which SNAP benefits are loaded to EBT cards in 24 U.S. states, one row per key range, as each state agency publishes it.
 
 ## Files
