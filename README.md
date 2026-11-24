@@ -1,8 +1,8 @@
 # SNAP EBT monthly deposit-day rules by U.S. state
 
-The day of the month on which SNAP benefits are loaded to EBT cards in 24 U.S. states, one row per key range, as each state agency publishes it.
+**Site: [ebt.govsimple.org](https://ebt.govsimple.org/)** · Download: [latest release](https://github.com/JasonTKG/ebt-schedule/releases/latest)
 
-Site: https://ebt.govsimple.org/
+The day of the month on which SNAP benefits are loaded to EBT cards in 24 U.S. states, one row per key range, as each state agency publishes it.
 
 ## Files
 

@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below, together with the sources named in README.md."
+type: dataset
+title: "SNAP EBT monthly deposit-day rules by U.S. state"
+abstract: "The day of the month on which SNAP benefits are loaded to EBT cards in 24 U.S. states, one row per key range, as each state agency publishes it."
+authors:
+  - name: "JasonTKG"
+    website: "https://github.com/JasonTKG"
+url: "https://ebt.govsimple.org/"
+repository: "https://github.com/JasonTKG/ebt-schedule"
+license: CC0-1.0
+version: "2026.11.24"
+date-released: "2026-11-24"
+keywords:
+  - "dataset"
+  - "open-data"
+  - "snap"
+  - "ebt"
+  - "benefits"
+  - "united-states"
+  - "csv"
